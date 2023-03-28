@@ -14,7 +14,7 @@ export default function Hero() {
             <h1 className="text-5xl text-center md:text-left md:text-8xl font-primary font-semibold text-primary">
               Discover{" "}
               <span className="text-secondary underline decoration-solid">
-                Rare 3D Collections
+                Building 3D Metaverse
               </span>{" "}
               in the{" "}
               <span className="text-secondary underline decoration-solid">
